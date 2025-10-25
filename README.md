@@ -1,7 +1,7 @@
 <h1 align="center">📡 executorstresser.ru </h1> 
 <div align="center">
 
-<img src="https://i.ibb.co.com/Y4cvGJZc/Screenshot-2025-10-24-220936.jpg" alt="Screenshot-2025-10-24-220936" border="0">
+<img src="https://i.ibb.co.com/1Yy6k7kb/px.jpg" alt="px" border="0">
 <img src="https://i.ibb.co.com/Zptv8nRv/Screenshot-2025-10-24-220622.jpg" alt="Screenshot-2025-10-24-220622" border="0">
 <img src="https://i.ibb.co.com/DPF9XnSm/Screenshot-2025-10-24-220953.png" alt="Screenshot-2025-10-24-220953" border="0">
 
