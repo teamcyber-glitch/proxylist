@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/fate0/proxylist/refs/heads/master/proxy.list
